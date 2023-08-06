@@ -1,0 +1,10 @@
+.add-todo-container {
+    height: 50px;
+    width: 350px;
+}
+
+.todo-input {
+    height: inherit;
+    width: inherit;
+
+}

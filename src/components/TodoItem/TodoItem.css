@@ -1,0 +1,32 @@
+.todo-item {
+    border-style: solid;
+    border-width: 2px 2px 2px 10px;
+    border-color: aqua;
+    width: 350px;
+}
+
+.todo-content {
+    padding-left: 12px;
+}
+
+.list-todo-container{
+    display: grid;
+    grid-template-columns: 88% 12%;
+}
+
+.todo-actions{
+    display: grid;
+    grid-template-rows: 50% 50%;
+}
+
+.edit-todo-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #69aadb;
+}
+.delete-todo-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #f55a4e;
+ 
+}

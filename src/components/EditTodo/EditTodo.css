@@ -1,0 +1,33 @@
+.edit-todo{
+    display: grid;
+    height: 100px;
+    grid-template-columns: 88% 12%;
+}
+
+.update-actions{
+    display: grid;
+    grid-template-rows: 50% 50%;
+}
+
+.todo-input-container{
+    height: 94%;
+    width: 98%;
+}
+
+.edit-todo-input{
+    height: 100%;
+    width: 100%;
+    font-size: 18px;
+    background-color: #e3eef8;
+}
+
+.update-todo-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #bfdc7f;
+}
+.cancel-todo-btn{
+    height: 100%;
+    width: 100%;
+    background-color: #f55a4e;
+}
